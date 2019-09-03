@@ -1,7 +1,7 @@
 # HKUST-MBA-Fintech-Club
 Documentation relating to the MBA Fintech Club at HKUST
 
-This repository maintains documentation for HKUST MBA Fintech Club.
+This repository maintains documentation for HKUST MBA Fintech Club and serves as a resource for the HKUST community and friends of HKUST.
 
 - Educational materials
 - Newsletter ideas and frameworks
